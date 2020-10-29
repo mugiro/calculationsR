@@ -1,0 +1,6 @@
+*.PNG
+*.ISF
+*.SET
+*.CSV
+data/Datos_4_sondas/WPSettings.dat
+data/Datos_4_sondas/IndexerVolumeGuid
